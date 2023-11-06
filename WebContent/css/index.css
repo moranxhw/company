@@ -1,0 +1,48 @@
+body {
+    background-color: #fff6fb;
+}
+
+.sousuo {
+    position: relative; /* ��Զ�λ:���ԭ��λ�ý���ƫ�� */
+    top: 8px;
+    left: 80px;
+}
+
+.sousuo01 {
+    position: relative; /* ��Զ�λ:���ԭ��λ�ý���ƫ�� */
+    top: 8px;
+}
+
+.jieshu {
+    height: 24px
+}
+
+.login {
+    width: 300px;
+    height: 120px;
+    border: 0;
+    cellpadding: 1;
+    cellspacing: 0;
+    align: center;
+    position: absolute;
+    top: 0px;
+    left: 1150px;
+    background-color: white;
+}
+
+.weiguihuan {
+    position: relative; /* ��Զ�λ:���ԭ��λ�ý���ƫ�� */
+    top: 8px;
+    left: 500px
+}
+
+.xiala {
+    font-size: 6px;
+    position: relative; /* ��Զ�λ:���ԭ��λ�ý���ƫ�� */
+    top: 3px;
+}
+
+.xialakuang {
+    width: 100%;
+    height: 34px;
+}

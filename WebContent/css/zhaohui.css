@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.biaotou {
+    width: 1000px;
+    height: 110px;
+    position: relative;
+    top: -10px;
+    left: 200px;
+}
+
+.tushu {
+    position: absolute;
+    top: 16px;
+    left: 1000px;
+}
+
+.copyright {
+    font-family: 'arial regular', arial, sans-serif;
+    font: 12px/26px "Microsoft Yahei", å¾®è½¯é›…é»‘;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    color: #000;
+    position: absolute;
+    top: 700px;
+    left: 700px;
+}
+
+.denglu {
+    background-color: #ffffff;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 210px;
+    left: 1050px;
+    border-radius: 10px;
+}
+
+.guanliyuan {
+    height: 150px;
+    font-size: 25px;
+    position: relative;
+    left: 68px;
+}
+
+.yonghu {
+    height: 60px;
+    font-size: 15px;
+
+}
+
+.table1 {
+    margin: 0 auto;
+}
+
+.dengluanniu {
+    background: #1d80dd;
+    border: 0;
+    color: #FFFFFF;
+    width: 275px;
+    height: 40px;
+    position: relative;
+    top: 10px;
+    border-radius: 2px;
+    font-size: 18px;
+}
+
+.wenti {
+    position: relative;
+    top: 20px;
+    left: 80px;
+    font-size: 8px;
+}
+
+.jindu {
+    position: relative;
+    left: 300px;
+}
+
+
